@@ -25,9 +25,9 @@ Restart your Sublime Editor
 
 ## Complete Documentation
 
-1) Go to sublime Editor
-2) Select the text and right click.
-3) Select any option from Menu
+1) Go to sublime Editor \n
+2) Select the text and right click. \n
+3) Select any option from Menu. \n
 4) It will open a new tab in browser along with search term
 
 
