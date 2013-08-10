@@ -1,4 +1,4 @@
-# Sublime Text Search Plugin
+# Sublime GSG Plugin
 
 A plugin to search on Stack Overflow, Google and Github Code repo.
 
