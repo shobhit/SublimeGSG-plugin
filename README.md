@@ -6,7 +6,7 @@ A plugin to search on Stack Overflow, Google and Github Code repo.
 
 The preferred method is to use the [Sublime Package Manager](http://wbond.net/sublime_packages/package_control). Alternatively, the files can be obtained on github:
 
-    $ https://github.com/ericmartel/Sublime-Text-GSG-Plugin
+    $ https://github.com/shobhit/SublimeGSG-plugin
 
 ## Complete Documentation
 
@@ -14,7 +14,7 @@ The preferred method is to use the [Sublime Package Manager](http://wbond.net/su
 # License
 All of Sublime Text GSG Plugin is licensed under the MIT license.
 
-Copyright (c) 2013 shobhit jain <shobhitjain26@gmail.com>
+Copyright (c) 2013 Shobhit Jain <shobhitjain26@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
