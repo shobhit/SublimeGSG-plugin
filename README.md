@@ -25,6 +25,13 @@ Restart your Sublime Editor
 
 ## Complete Documentation
 
+1) Go to sublime Editor
+2) Select the text and right click.
+3) Select any option from Menu
+4) It will open a new tab in browser along with search term
+
+
+
 
 # License
 All of Sublime Text GSG Plugin is licensed under the MIT license.
