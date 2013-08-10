@@ -4,9 +4,24 @@ A plugin to search on Stack Overflow, Google and Github Code repo.
 
 ## Install
 
-The preferred method is to use the [Sublime Package Manager](http://wbond.net/sublime_packages/package_control). Alternatively, the files can be obtained on github:
+The files can be obtained from github as a zip file .
+https://github.com/shobhit/SublimeGSG-plugin/archive/master.zip
 
-    $ https://github.com/shobhit/SublimeGSG-plugin
+Following are the steps to Install it:
+
+1) Go to sublime editor
+2) Preferences -> Browse Packages 
+3) Copy all these files to the Folder
+
+or 
+
+1) Go to Browser Packages folder via Terminal and 
+
+git clone https://github.com/shobhit/SublimeGSG-plugin
+
+Restart your Sublime Editor
+
+
 
 ## Complete Documentation
 
