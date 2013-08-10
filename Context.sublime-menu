@@ -1,0 +1,14 @@
+[
+    {
+        "command": "stackoverflow_search_selection",
+        "caption": "Search on Stackoverflow"
+    },
+    {
+    	"command": "google_search_selection",
+    	"caption": "Search On Google"
+    },
+    {
+    	"command": "github_search_selection",
+    	"caption": "Search code on Github"
+    }
+]

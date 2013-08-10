@@ -1,0 +1,30 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "t",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Google-So-Github",
+                "mnemonic": "f",
+                "id": "gsg",
+                "children":
+                [
+                    {
+                        "command": "stackoverflow_search_selection",
+                        "caption": "Search on Stackoverflow"
+                    },
+                    {
+                        "command": "google_search_selection",
+                        "caption": "Search On Google"
+                    },
+                    {
+                        "command": "github_search_selection",
+                        "caption": "Search code on Github"
+                    }
+                ]
+            }
+        ]
+    }
+]
