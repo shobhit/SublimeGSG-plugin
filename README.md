@@ -9,13 +9,15 @@ https://github.com/shobhit/SublimeGSG-plugin/archive/master.zip
 
 Following are the steps to Install it:
 
-1 Go to sublime editor
-2 Preferences -> Browse Packages 
-3 Copy all these files to the Folder
+1) Go to sublime editor
+
+2) Preferences -> Browse Packages 
+
+3) Copy all these files to the Folder
 
 or 
 
-1 Go to Browser Packages folder via Terminal and 
+1) Go to Browser Packages folder via Terminal and 
 
 git clone https://github.com/shobhit/SublimeGSG-plugin
 
@@ -25,10 +27,13 @@ Restart your Sublime Editor
 
 ## USAGE
 
-1  Go to sublime Editor.
-2  Select the text and right click.
-3  Select any option from Menu.
-4  It will open a new tab in browser along with search term
+1)  Go to sublime Editor.
+
+2)  Select the text and right click.
+
+3)  Select any option from Menu.
+
+4)  It will open a new tab in browser along with search term
 
 
 
